@@ -1,10 +1,10 @@
 # IPL Exploratory Data Analysis
 
-## 🏏 Project Overview
+##  Project Overview
 
 This project performs an exploratory data analysis (EDA) on a dataset of Indian Premier League (IPL) matches. The analysis delves into various aspects of player and team performance, uncovering insights through data manipulation and visualization. This notebook is perfect for anyone interested in cricket analytics and data science.
 
-## 📊 Dataset
+##  Dataset
 
 The dataset used in this analysis contains ball-by-ball information for IPL matches. It includes details such as:
 
@@ -19,6 +19,6 @@ The dataset used in this analysis contains ball-by-ball information for IPL matc
 * `dismissal_kind`: The nature of the dismissal, if any.
 * `player_dismissed`: The name of the player who got out.
 
-## 🛠️ Installation and Setup
+##  Installation and Setup
 
 To run this analysis, you'll need Python and the following libraries installed. You can install them using pip:
